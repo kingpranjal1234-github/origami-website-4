@@ -1,0 +1,62 @@
+
+.grid{
+border:2px solid;
+border-radius: 50px;
+background-color:aqua;
+    }
+   
+.origami{
+    
+   border-radius: 20px;
+  background-color: #ffffff;
+   
+
+}
+
+.zap{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   border: solid;
+    background-color:chartreuse;
+
+}
+.box{
+    border: solid;
+    border-color: darkorange;
+    border-style: dotted;
+}
+.zee{
+border: double;
+background-color: lightyellow;
+background-image: url("kick.png");
+
+
+}
+body{
+    background-image: url("download.jpg");
+}
+a:link{
+    color:red;
+
+}
+a:visited{
+    color:red
+    
+}
+h4{
+    color:black;
+}
+.save{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   border: solid;
+   background-color: darkorange;
+}
+p{
+    color:black
+}
+h5{
+    color:firebrick
+}
